@@ -36,9 +36,9 @@ displayData();
 console.log("other Application")
 
 
-const wait = ()=>{
-    setTimeout(() => {
-        console.log('Hello');
-    }, 2000);
-}
-wait();
+// const wait = ()=>{
+//     setTimeout(() => {
+//         console.log('Hello');
+//     }, 2000);
+// }
+// wait();
